@@ -5,6 +5,10 @@ date: "2023-04-09"
 categories: [dessert, sweet, cake]
 ---
 
+
+![](cheesecake.jpeg)
+
+
 # History 
 
 The original recipe comes from Grandam Judy's mother, Grandma Katie-- Grandpa remembers having it for the first time back when he started dating Grandma.

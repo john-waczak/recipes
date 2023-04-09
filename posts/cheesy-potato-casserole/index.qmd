@@ -6,8 +6,11 @@ categories: [casserole, potatoes, savory]
 ---
 
 
-![](thumbnail.jpg){width=300}
+::: {layout-ncol=2}
+![](cheesy_potatoes.jpeg)
 
+![](thumbnail.jpg)
+:::
 
 # History 
 
