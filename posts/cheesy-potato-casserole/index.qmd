@@ -6,11 +6,7 @@ categories: [casserole, potatoes, savory]
 ---
 
 
-::: {layout-ncol=2}
-![](cheesy_potatoes.jpeg)
-
-![](thumbnail.jpg)
-:::
+![](cheesy_potatoes.jpeg){width=300}  
 
 # History 
 
@@ -31,6 +27,9 @@ Topping:
 
 - $1\frac{1}{2}$ cups cornflakes, crushed 
 - $2$ tbsp butter melted
+
+
+![](thumbnail.jpg){width=300}
 
 # Preparation
 
