@@ -1,6 +1,6 @@
 ---
 title: "Cheesy Potato Casserole"
-author: "Christine Waczak"
+author: "Judy Sperry"
 date: "2023-04-09"
 categories: [casserole, potatoes, savory]
 ---
