@@ -1,31 +1,24 @@
 [
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "posts/cheesy-potato-casserole/index.html",
+    "href": "posts/cheesy-potato-casserole/index.html",
+    "title": "Cheesy Potato Casserole",
     "section": "",
-    "text": "This is a post with executable code."
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "History\n\n\nIngredients\nCasserole:\n\n\\(1\\) pkg Simply Potatoes Shredded Hash Browns (green package)\n\\(1\\) can cream of chicken soup\n\\(2\\) cups shredded cheddar cheese\n\\(\\frac{3}{4}\\) cups sour cream\n\\(\\frac{1}{4}\\) chopped onion (I usually use more like half)\n\\(\\frac{1}{4}\\) cup butter/margerine\n\nTopping:\n\n\\(1\\frac{1}{2}\\) cups cornflakes, crushed\n\\(2\\) tbsp butter melted\n\n\n\nPreparation\nHeat oven to \\(350^\\circ\\)F. Spray a \\(9\\times 13\\) baking dish with cooking spray. Mix casserole ingredients in a large mixing bowl and then spread into baking dish. In a separate bowl, mix together topping ingredients and then spread over top of casserole. Bake 30 minutes covered and then final 15 minutes uncovered or until top begins to brown."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "recipes",
+    "title": "John Waczak’s Family Recipe Collection",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nApr 9, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nApr 6, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Cheesy Potato Casserole\n\n\n\n\n\n\n\ncasserole\n\n\npotatoes\n\n\nsavory\n\n\n\n\n\n\n\n\n\n\n\nApr 9, 2023\n\n\nChristine Waczak\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this blog"
+    "text": "This github-pages site serves as a collection of all of my Sperry and Waczak family recipes."
   },
   {
     "objectID": "recipes_old/polenta_w_mushrooms.html",
