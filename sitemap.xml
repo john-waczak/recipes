@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://john-waczak.github.io/recipes/posts/grandmas-cheesecake/index.html</loc>
+    <lastmod>2023-04-09T20:08:15.662Z</lastmod>
+  </url>
+  <url>
     <loc>https://john-waczak.github.io/recipes/posts/cheesy-potato-casserole/index.html</loc>
-    <lastmod>2023-04-09T19:04:26.271Z</lastmod>
+    <lastmod>2023-04-09T20:08:16.425Z</lastmod>
   </url>
   <url>
     <loc>https://john-waczak.github.io/recipes/index.html</loc>
-    <lastmod>2023-04-09T19:04:26.903Z</lastmod>
+    <lastmod>2023-04-09T20:08:17.086Z</lastmod>
   </url>
   <url>
     <loc>https://john-waczak.github.io/recipes/about.html</loc>
-    <lastmod>2023-04-09T19:04:27.413Z</lastmod>
+    <lastmod>2023-04-09T20:08:17.498Z</lastmod>
   </url>
   <url>
     <loc>https://john-waczak.github.io/recipes/recipes_old/polenta_w_mushrooms.html</loc>
-    <lastmod>2023-04-09T19:04:27.984Z</lastmod>
+    <lastmod>2023-04-09T20:08:18.034Z</lastmod>
   </url>
 </urlset>
