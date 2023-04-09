@@ -1,5 +1,13 @@
 ---
 title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/john-waczak/recipes
+
 ---
 
-About this site
+This github-pages site serves as a collection of all of my Sperry and Waczak family recipes. 

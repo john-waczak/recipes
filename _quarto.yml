@@ -2,18 +2,19 @@ project:
   type: website
 
 website:
-  title: "recipes"
+  title: "John Waczak's Family Recipe Collection"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
+    right:
       - about.qmd
+      - icon: github
+        href: https://github.com/john-waczak/recipes
+      # - icon: twitter
+      #   href: https://twitter.com
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
 
 
 
