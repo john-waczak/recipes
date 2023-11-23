@@ -2,7 +2,7 @@
 title: "Green Bean Casserole"
 author: "John Waczak"
 date: "2023-11-09"
-categories: [casserole, potatoes, savory]
+categories: [casserole, savory, green beans]
 ---
 
 # History
