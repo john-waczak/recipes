@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://john-waczak.github.io/recipes/posts/grandmas-cheesecake/index.html</loc>
-    <lastmod>2023-04-09T22:14:36.010Z</lastmod>
-  </url>
-  <url>
-    <loc>https://john-waczak.github.io/recipes/posts/cheesy-potato-casserole/index.html</loc>
-    <lastmod>2023-04-09T22:14:36.535Z</lastmod>
+    <loc>https://john-waczak.github.io/recipes/recipes_old/polenta_w_mushrooms.html</loc>
+    <lastmod>2023-11-23T17:40:20.671Z</lastmod>
   </url>
   <url>
     <loc>https://john-waczak.github.io/recipes/index.html</loc>
-    <lastmod>2023-04-09T22:14:37.221Z</lastmod>
+    <lastmod>2023-11-23T17:40:19.673Z</lastmod>
+  </url>
+  <url>
+    <loc>https://john-waczak.github.io/recipes/posts/green-bean-casserole/index.html</loc>
+    <lastmod>2023-11-23T17:40:18.370Z</lastmod>
+  </url>
+  <url>
+    <loc>https://john-waczak.github.io/recipes/posts/grandmas-cheesecake/index.html</loc>
+    <lastmod>2023-11-23T17:40:17.312Z</lastmod>
+  </url>
+  <url>
+    <loc>https://john-waczak.github.io/recipes/posts/obrien-potato-casserole/index.html</loc>
+    <lastmod>2023-11-23T17:40:17.817Z</lastmod>
+  </url>
+  <url>
+    <loc>https://john-waczak.github.io/recipes/posts/cheesy-potato-casserole/index.html</loc>
+    <lastmod>2023-11-23T17:40:18.906Z</lastmod>
   </url>
   <url>
     <loc>https://john-waczak.github.io/recipes/about.html</loc>
-    <lastmod>2023-04-09T22:14:37.708Z</lastmod>
-  </url>
-  <url>
-    <loc>https://john-waczak.github.io/recipes/recipes_old/polenta_w_mushrooms.html</loc>
-    <lastmod>2023-04-09T22:14:38.255Z</lastmod>
+    <lastmod>2023-11-23T17:40:20.136Z</lastmod>
   </url>
 </urlset>
